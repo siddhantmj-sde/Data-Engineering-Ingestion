@@ -12,7 +12,7 @@ folders:
 database:
   type: "mongodb"
   mongodb:
-    uri: "mongodb+srv://siddhantmishra:siddhantmishra@csgdemo.ixcusej.mongodb.net/?retryWrites=true&w=majority&appName=CSGDemo"
+    uri: "MONGO_URI"
     database: "file_ingestion"
     collection_metadata: "file_metadata"
     collection_process_log: "process_logs"
